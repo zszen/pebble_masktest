@@ -1,0 +1,98 @@
+{
+    "author": "zszen@hotmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "z_test_mask_bitmap",
+    "pebble": {
+        "displayName": "Z_TEST_MASK_BITMAP",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/vertical_color2.png",
+                    "name": "IMAGE_BG_BLUE2",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/bgRainbow",
+                    "name": "IMAGE_BG_RAINBOW",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/bgRed",
+                    "name": "IMAGE_BG_RED",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/bg3",
+                    "name": "IMAGE_BG3",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/bgBlackWhite",
+                    "name": "IMAGE_BG_BLACKWHITE",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/bgGreen",
+                    "name": "IMAGE_BG_GREEN",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/bgBlue",
+                    "name": "IMAGE_BG_BLUE",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/bg1",
+                    "name": "IMAGE_BG1",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/bg2",
+                    "name": "IMAGE_BG2",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/bg",
+                    "name": "IMAGE_BG",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/num1",
+                    "name": "IMAGE_NUM1",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/num0",
+                    "name": "IMAGE_NUM0",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt"
+        ],
+        "uuid": "31985e43-3a3e-4287-8691-eea36e2a7639",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
